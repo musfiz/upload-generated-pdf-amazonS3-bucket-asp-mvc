@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PdfGeneratorMVC.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="accessKeyId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AKIAIJKN6BQY54T66ZHA</Value>
+    </Setting>
+    <Setting Name="secretAccessKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mTJZQxpKGxZp3cBH/nMlfyLws81WJ3fViOcxitp5</Value>
+    </Setting>
+    <Setting Name="bucketName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">lab-orders/imperium/vault</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
